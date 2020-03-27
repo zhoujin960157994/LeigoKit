@@ -1,0 +1,8 @@
+github "robbiehanson/CocoaAsyncSocket" ~> 7.6.3
+github "CocoaLumberjack/CocoaLumberjack" ~> 3.5.2
+github "zhuhaow/Sodium-framework" "v1.0.10.1"
+github "behrang/YamlSwift" "3.4.3"
+github "zhuhaow/Resolver" ~> 0.2.0
+github "lexrus/MMDB-Swift" "0.3.0"
+github "daltoniam/Starscream" ~> 4.0.0
+git "http://dev01:dev014rfv5tgb@47.104.4.67:8088/r/VPNSupport/tun2socks.git" "1.2"

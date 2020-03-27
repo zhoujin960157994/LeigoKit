@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "SOCKS5ProxySocket.didRead(data:from:):SOCKS5ProxySocket.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "destinationHost">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "HTTPAdapter.didConnectWith(socket:):HTTPAdapter.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "session.host">
+            </PersistentString>
+            <PersistentString
+               value = "session.port">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in SOCKS5ProxySocket.didRead(data:from:):SOCKS5ProxySocket.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #2 in SOCKS5ProxySocket.didRead(data:from:):SOCKS5ProxySocket.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "p.baseAddress!.pointee">
+            </PersistentString>
+            <PersistentString
+               value = "p.baseAddress!.successor().pointee ">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
